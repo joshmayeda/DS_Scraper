@@ -2,10 +2,9 @@
  using HtmlAgilityPack;
  using System.Text.Json;
 
- class Daggers
+ class GeneralWeapons
  {
-
-    public List<Weapon> ParseDaggers(string html)
+public List<Weapon> ParseGeneralWeapons(string html)
         {
             var options = new JsonSerializerOptions
             {
