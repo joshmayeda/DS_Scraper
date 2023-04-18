@@ -1,0 +1,17 @@
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\bin\Debug\net7.0\DS_Scraper.exe
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\bin\Debug\net7.0\DS_Scraper.deps.json
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\bin\Debug\net7.0\DS_Scraper.runtimeconfig.json
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\bin\Debug\net7.0\DS_Scraper.dll
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\bin\Debug\net7.0\DS_Scraper.pdb
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\DS_Scraper.csproj.AssemblyReference.cache
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\DS_Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\DS_Scraper.AssemblyInfoInputs.cache
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\DS_Scraper.AssemblyInfo.cs
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\DS_Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\DS_Scraper.csproj.CopyComplete
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\DS_Scraper.dll
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\refint\DS_Scraper.dll
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\DS_Scraper.pdb
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\DS_Scraper.genruntimeconfig.cache
+C:\Users\Josh\Coding\CsharpProjects\DS_Scraper\obj\Debug\net7.0\ref\DS_Scraper.dll
