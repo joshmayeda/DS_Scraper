@@ -1,0 +1,222 @@
+[
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Fireball.png",
+    "Name": "Fireball",
+    "Uses": 8,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Standard pyromancy of the Great Swamp. Hurl fireball.",
+    "AcquiredFrom": "Laurentius, Quelana and starting spell for the\u0026nbsp;Pyromancer class.",
+    "Cost": "800",
+    "Type": "Ranged Attack Very Small AOE"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Fire_Orb.png",
+    "Name": "Fire Orb",
+    "Uses": 6,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Pyromancy which improves upon Fireball. Hurl fire orb.",
+    "AcquiredFrom": "Laurentius and Quelana",
+    "Cost": "8,000",
+    "Type": "Ranged Attack Small AOE"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Great_Fireball.png",
+    "Name": "Great Fireball",
+    "Uses": 4,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Ultimate fireball pyromancy. Hurl giant fireball.",
+    "AcquiredFrom": "Quelana",
+    "Cost": "20,000",
+    "Type": "Ranged Attack AOE"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Great_Chaos_Fireball.png",
+    "Name": "Great Chaos Fireball",
+    "Uses": 4,
+    "Slots": 2,
+    "RequiredIntelligence": 0,
+    "Description": "Hurl giant chaos fireball, leaving a large amount of temporary lava",
+    "AcquiredFrom": "Joining Chaos Servant covenant (Daughter of Chaos\u0026nbsp;after Quelaag)",
+    "Cost": "Covenant",
+    "Type": "Ranged AoE Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Firestorm.png",
+    "Name": "Firestorm",
+    "Uses": 20,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Primal pyromancy taught by Quelana of Izalith. Erect fire pillars in vicinity. Note: Uses 17 uses per cast.",
+    "AcquiredFrom": "Quelana",
+    "Cost": "30,000",
+    "Type": "Big AoE Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Fire_Tempest.png",
+    "Name": "Fire Tempest",
+    "Uses": 20,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Primal pyromancy of Quelana of Izalith. Erect giant fire pillars in vicinity.",
+    "AcquiredFrom": "Quelana\u0026nbsp; gives it to you after finishing her favor.",
+    "Cost": "Gift/Drop",
+    "Type": "Big AoE Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Chaos_Storm.png",
+    "Name": "Chaos Storm",
+    "Uses": 20,
+    "Slots": 2,
+    "RequiredIntelligence": 0,
+    "Description": "Erect localized chaos fire pillars which leave blobs of temporary lava Note: Like firestorm and leaves a little lava behind.",
+    "AcquiredFrom": "Rank 2 in Chaos Servant (30 humanities total)",
+    "Cost": "Covenant",
+    "Type": "Big AoE Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Combustion.png",
+    "Name": "Combustion",
+    "Uses": 16,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Elementary pyromancy. Create powerful flame in hand Note: Good \u0027melee\u0027 range spell, very quick too.",
+    "AcquiredFrom": "Laurentius and Quelana",
+    "Cost": "500",
+    "Type": "Melee Range Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Great_Combustion.png",
+    "Name": "Great Combustion",
+    "Uses": 8,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Pyromancy which improves upon Combustion. Create powerful, giant flame in hand. Note: Very good melee range spell.",
+    "AcquiredFrom": "Quelana",
+    "Cost": "5,000",
+    "Type": "Melee Range Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Fire_Surge.png",
+    "Name": "Fire Surge",
+    "Uses": 80,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Pyromancy foreign to the Great Swamp. Create a surge of flame from palm of hand. Note: Rapid fire spell you can cast while moving.",
+    "AcquiredFrom": "Drop from the Bloated Dredge located after passing two illusory walls under the well, in Painted World of Ariamis.",
+    "Cost": "Drop",
+    "Type": "Short-Ranged Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Fire_Whip.png",
+    "Name": "Fire Whip",
+    "Uses": 80,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Primal pyromancy taught by Quelana of Izalith. Sweep foes with fire whip. Note: Uses 21 uses per cast. Note:Hits twice/cast",
+    "AcquiredFrom": "Quelana",
+    "Cost": "10,000",
+    "Type": "Short-Ranged Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Chaos_Fire_Whip.png",
+    "Name": "Chaos Fire Whip",
+    "Uses": 80,
+    "Slots": 2,
+    "RequiredIntelligence": 0,
+    "Description": "Sweep foes with chaos fire whip with lava traces Note: Leaves lava behind for a bit. Follows same mechanics as Fire Whip.",
+    "AcquiredFrom": "Chest in Lost Izalith - turn right at the boss fog, it is down the path and around the corner guarded by a Chaos Eater.",
+    "Cost": "Treasure",
+    "Type": "Short-Ranged Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Poison_Mist.png",
+    "Name": "Poison Mist",
+    "Uses": 3,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Breathes out a cone of poison mist that fills the surrounding area causing poison status.",
+    "AcquiredFrom": "Swamp in Blighttown, Eingyi, the Egg-burdened NPC near the Daughter of Chaos sells this. (You need to be an Egg-head to be able to purchase this.)",
+    "Cost": "10,000",
+    "Type": "AoE"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Toxic_Mist.png",
+    "Name": "Toxic Mist",
+    "Uses": 1,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Breathes out a cone of toxic mist that fills the surrounding area causing toxic status.",
+    "AcquiredFrom": "Eingyi, the Egg Burdened NPC near the Daughter of Chaos. (You need to\u0026nbsp;be an Egg-head to be able to purchase this.)",
+    "Cost": "25,000",
+    "Type": "AoE"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Acid_Surge.png",
+    "Name": "Acid Surge",
+    "Uses": 2,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Pyromancy foreign to the Great Swamp. Emit acid which corrodes weapons and armor damaging their durability. Does not affect user.",
+    "AcquiredFrom": "In the graveyard area to the right side as you enter near the edge of the cliff in the Painted World of Ariamis.",
+    "Cost": "Treasure",
+    "Type": "AoE Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Flash_Sweat.png",
+    "Name": "Flash Sweat",
+    "Uses": 3,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Covers the player in water, reduces fire damage.",
+    "AcquiredFrom": "Laurentius",
+    "Cost": "2,000",
+    "Type": "Buff"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Iron_Flesh.png",
+    "Name": "Iron Flesh",
+    "Uses": 3,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Self-buff, raises defenses and poise. Note: User becomes heavy and unable to move freely: can only walk, can\u0027t run, sprint, roll, or jump.",
+    "AcquiredFrom": "Laurentius",
+    "Cost": "2,000",
+    "Type": "Buff"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Power_Within.png",
+    "Name": "Power Within",
+    "Uses": 1,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Increases Attack and Defense but gradually drains HP",
+    "AcquiredFrom": "Blighttown\u0026nbsp;(Underneath the\u0026nbsp; Parasitic Wall Hugger)",
+    "Cost": "Treasure",
+    "Type": "Buff"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Undead_Rapport.png",
+    "Name": "Undead Rapport",
+    "Uses": 7,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Advanced pyromancy of Quelana of Izalith. Charm undead and gain temporary allies. Melee ranged support spell with about 2 second cast time.",
+    "AcquiredFrom": "Quelana",
+    "Cost": "10,000",
+    "Type": "Melee Range Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Black%20Flame.png",
+    "Name": "Black Flame",
+    "Uses": 8,
+    "Slots": 1,
+    "RequiredIntelligence": 0,
+    "Description": "Similar to Great Combustion. Melee-range pyromancy. Main difference with Great Combustion is that when Black Flame is blocked, it consumes a much higher amount of stamina than Great Combustion, making this pyromancy great for breaking guards.",
+    "AcquiredFrom": "Found on a corpse in the Chasm of the Abyss. (AotA Only)",
+    "Cost": "\u0026nbsp;",
+    "Type": "Melee Range Attack"
+  }
+]

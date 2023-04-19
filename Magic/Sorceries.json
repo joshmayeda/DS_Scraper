@@ -1,0 +1,282 @@
+[
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Sorcery_-_Soul_Arrow.png",
+    "Name": "Soul Arrow",
+    "Uses": 30,
+    "Slots": 1,
+    "RequiredIntelligence": 10,
+    "Description": "Fires a magical projectile. Excellent starting spell which does very good damage against most enemies in the early game areas.",
+    "AcquiredFrom": "Griggs of Vinheim 1,000 souls Big Hat Logan 1,000 souls Blacksmith Rickert of Vinheim\u0026nbsp; 2,000 souls",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Great_Soul_Arrow.png",
+    "Name": "Great Soul Arrow",
+    "Uses": 20,
+    "Slots": 1,
+    "RequiredIntelligence": 14,
+    "Description": "Stronger soul arrow, same cast time as soul arrow, fewer uses.",
+    "AcquiredFrom": "Griggs of Vinheim 6,000 souls Big Hat Logan 6,000 souls",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Heavy_Soul_Arrow.png",
+    "Name": "Heavy Soul Arrow",
+    "Uses": 12,
+    "Slots": 1,
+    "RequiredIntelligence": 12,
+    "Description": "Stronger than greater soul arrow, longer casting time.",
+    "AcquiredFrom": "Griggs of Vinheim 2,000 souls Big Hat Logan 2,000 souls Blacksmith Rickert of Vinheim 4,000 souls",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Great_Heavy_Soul_Arrow.png",
+    "Name": "Great Heavy Soul Arrow",
+    "Uses": 8,
+    "Slots": 1,
+    "RequiredIntelligence": 16,
+    "Description": "Stronger than heavy soul arrow, fewer uses. Has a slow cast time, but deals a tremendous amount of damage, even against bosses.",
+    "AcquiredFrom": "Griggs of Vinheim 8,000 souls Big Hat Logan 8,000 souls",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Homing_Soulmass.png",
+    "Name": "Homing Soulmass",
+    "Uses": 10,
+    "Slots": 1,
+    "RequiredIntelligence": 18,
+    "Description": "Fires multiple, homing magic projectiles. Can be successfully cast without an initial \u0022lock on\u0022. Multiple soul arrows will hover above the player. Each individual soul arrow will seek the closest target, in the direction the player is facing, when in range. Because the spell can be cast in advance, it has a unique advantage in that, if timed correctly, it can be cast in synchronicity with other attacks.",
+    "AcquiredFrom": "Big Hat Logan 20,000 souls Griggs of Vinheim 20,000 souls",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Homing_Crystal_Soulmass.png",
+    "Name": "Homing Crystal Soulmass",
+    "Uses": 10,
+    "Slots": 1,
+    "RequiredIntelligence": 24,
+    "Description": "Fires multiple, homing crystal projectiles. Can be successfully cast without an initial \u0022lock on\u0022. Multiple crystal arrows will hover above the player. Each individual soul arrow will seek the closest target, in the direction the player is facing, when in range.",
+    "AcquiredFrom": "Big Hat Logan 30,000 souls",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Soul_Spear.png",
+    "Name": "Soul Spear",
+    "Uses": 4,
+    "Slots": 1,
+    "RequiredIntelligence": 36,
+    "Description": "Fire piercing soul spear.",
+    "AcquiredFrom": "Big Hat Logan 40,000 souls Griggs of Vinheim 40,000 souls",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Crystal_Soul_Spear.png",
+    "Name": "Crystal Soul Spear",
+    "Uses": 4,
+    "Slots": 1,
+    "RequiredIntelligence": 44,
+    "Description": "Fire an even more powerful, piercing ranged attack.",
+    "AcquiredFrom": "Big Hat Logan 50,000 souls",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/White_Dragon_Breath.png",
+    "Name": "White Dragon Breath",
+    "Uses": 20,
+    "Slots": 1,
+    "RequiredIntelligence": 50,
+    "Description": "A straight line of crystals pop out of the ground in front of you, shooting towards your target. One advantage of this spell is that it will take out large groups of enemies if they are lined up one behind the other. It has a medium cast time, but once it fires, it will take out anything in its path. 20 casts make this a great high level replacement for the soul arrow at high levels, as it\u0027s not as useful on most bosses.",
+    "AcquiredFrom": "Big Hat Logan (drop)",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Magic_Weapon.png",
+    "Name": "Magic Weapon",
+    "Uses": 5,
+    "Slots": 1,
+    "RequiredIntelligence": 10,
+    "Description": "Enhances the right-hand weapon. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too. Adds 0.8x your Magic Adjustment stat (NOT Intelligence) magic damage to your weapon.",
+    "AcquiredFrom": "Griggs of Vinheim 3,000 souls Big Hat Logan 3,000 souls",
+    "Type": "Weapon Buff"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Great_Magic_Weapon.png",
+    "Name": "Great Magic Weapon",
+    "Uses": 3,
+    "Slots": 1,
+    "RequiredIntelligence": 15,
+    "Description": "Enhances the right-hand weapon. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too. Adds 1.1x your Magic Adjustment stat (NOT Intelligence) magic damage to your weapon.",
+    "AcquiredFrom": "Cut Chandelier on the catwalk and pick up in front of Painted World Entrance in Anor Londo",
+    "Type": "Weapon Buff"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Crystal_Magic_Weapon.png",
+    "Name": "Crystal Magic Weapon",
+    "Uses": 3,
+    "Slots": 1,
+    "RequiredIntelligence": 25,
+    "Description": "Enhances and crystallizes right-hand weapon. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too. Adds 1.4x your Magic Adjustment stat (NOT Intelligence) as magic damage to your weapon.",
+    "AcquiredFrom": "Big Hat Logan 20,000 souls",
+    "Type": "Weapon Buff"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Magic_Shield.png",
+    "Name": "Magic Shield",
+    "Uses": 5,
+    "Slots": 1,
+    "RequiredIntelligence": 10,
+    "Description": "Reinforces the equipped shield or weapon able to block in the left hand with magic. Works on all types of shields (even unique or upgraded to any path) and on all weapons able to block while on the left hand (even unique or upgraded to any path). Halves stamina used on hit deflection (only on shields) and improves the weapon\u0027s or shield\u0027s magic resistance by 30% (by up to a maximum of 90%). Lasts 15 seconds, 5 casts.",
+    "AcquiredFrom": "Griggs of Vinheim 3,000 souls Big Hat Logan 3,000 souls",
+    "Type": "Support Defense (Buff)"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Strong_Magic_Shield.png",
+    "Name": "Strong Magic Shield",
+    "Uses": 3,
+    "Slots": 1,
+    "RequiredIntelligence": 15,
+    "Description": "Reinforces the equipped shield or weapon able to block in the left hand with a stronger magic effect. Works on all types of shields (even unique or upgraded to any path) and on all weapons able to block while on the left hand (even unique or upgraded to any path). Reduces the stamina used to deflect a hit considerably (only on shields) and improves all the resistances of the shield or weapon enchanted to 100%. Lasts 15 seconds, 3 casts.",
+    "AcquiredFrom": "Chest in The Duke\u0027s Archives",
+    "Type": "Support Defense (Buff)"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Aural_Decoy.png",
+    "Name": "Aural Decoy",
+    "Uses": 20,
+    "Slots": 1,
+    "RequiredIntelligence": 10,
+    "Description": "Lures enemies away by creating a sound originating in the distance.",
+    "AcquiredFrom": "Griggs of Vinheim 1,000 souls",
+    "Type": "Support Defense"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Hush.png",
+    "Name": "Hush",
+    "Uses": 6,
+    "Slots": 1,
+    "RequiredIntelligence": 15,
+    "Description": "Masks all noises of caster.",
+    "AcquiredFrom": "Sen\u0027s Fortress (treasure) Griggs of Vinheim (drop)",
+    "Type": "Support Defense (Buff)"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Fall_Control.png",
+    "Name": "Fall Control",
+    "Uses": 10,
+    "Slots": 1,
+    "RequiredIntelligence": 15,
+    "Description": "Reduces damage and noise from fall. However, terminal falls will still kill you even with this active.",
+    "AcquiredFrom": "Griggs of Vinheim 1,500 souls",
+    "Type": "Support Defense (Buff)"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Hidden_Weapon.png",
+    "Name": "Hidden Weapon",
+    "Uses": 3,
+    "Slots": 1,
+    "RequiredIntelligence": 14,
+    "Description": "Turns your right hand weapon invisible. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too.",
+    "AcquiredFrom": "Dusk of Oolacile 2,000 souls",
+    "Type": "Support (Weapon Buff)"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Hidden_Body.png",
+    "Name": "Hidden Body",
+    "Uses": 3,
+    "Slots": 1,
+    "RequiredIntelligence": 14,
+    "Description": "Masks your presence, making detection harder.",
+    "AcquiredFrom": "Dusk of Oolacile 2,000 souls",
+    "Type": "Support (Buff)"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Repair.png",
+    "Name": "Repair",
+    "Uses": 1,
+    "Slots": 1,
+    "RequiredIntelligence": 14,
+    "Description": "Repairs weapons and armor",
+    "AcquiredFrom": "Dusk of Oolacile 10,000 souls",
+    "Type": "Support"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Cast_Light.png",
+    "Name": "Cast Light",
+    "Uses": 3,
+    "Slots": 1,
+    "RequiredIntelligence": 14,
+    "Description": "Cast a bright light upon surroundings, and lasts 5 minutes. Particularly useful for Tomb of Giants",
+    "AcquiredFrom": "Dusk of Oolacile 1,000 souls",
+    "Type": "Support"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Chameleon.png",
+    "Name": "Chameleon",
+    "Uses": 11,
+    "Slots": 1,
+    "RequiredIntelligence": 14,
+    "Description": "Transform the caster into an inanimate object. Generally, the object you become is something common to the area you are in. Could be a vase, or a box, etc. Some strategy must be used, and the most effective is to place yourself in a cluster of similar objects. Once cast, you can move slowly and position yourself. If done properly, an enemy will walk by you and never know you\u0027re there. Cannot run when using, any other action breaks the effect.",
+    "AcquiredFrom": "Dusk of Oolacile 3,000 souls",
+    "Type": "Support"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Remedy.png",
+    "Name": "Remedy",
+    "Uses": 4,
+    "Slots": 1,
+    "RequiredIntelligence": 16,
+    "Description": "Removes poison/toxic/bleeding build up, and cures poison/toxic status.",
+    "AcquiredFrom": "Blighttown",
+    "Type": "Support"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Resist_Curse.png",
+    "Name": "Resist Curse",
+    "Uses": 4,
+    "Slots": 1,
+    "RequiredIntelligence": 16,
+    "Description": "Removes curse build up.",
+    "AcquiredFrom": "Ingward 5,000 souls",
+    "Type": "Support"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Dark%20Orb.png",
+    "Name": "Dark Orb",
+    "Uses": 12,
+    "Slots": 1,
+    "RequiredIntelligence": 16,
+    "Description": "After a brief charge, fires a large shot at your target.",
+    "AcquiredFrom": "Found in Oolacile Township. (AotA Only)",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Dark%20Bead.png",
+    "Name": "Dark Bead",
+    "Uses": 6,
+    "Slots": 1,
+    "RequiredIntelligence": 16,
+    "Description": "Fires a large amount of small dark orbs that fan outwards\u2014very fast cast time. Excellent against large bosses.",
+    "AcquiredFrom": "Found on a corpse behind an Oolacile Sorcerer in the Depths of the Abyss. (AotA Only)",
+    "Type": "Ranged Magic Attack"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Dark%20Fog.png",
+    "Name": "Dark Fog",
+    "Uses": 2,
+    "Slots": 1,
+    "RequiredIntelligence": 18,
+    "Description": "Creates a fog that inflicts poison. The fog is created at the location of the locked target.",
+    "AcquiredFrom": "Found in Oolacile Township (AotA Only)",
+    "Type": "AoE Ranged Sorcery"
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Pursuers.png",
+    "Name": "Pursuers",
+    "Uses": 3,
+    "Slots": 2,
+    "RequiredIntelligence": 32,
+    "Description": "Slow moving dark soul mass, fires and homes in on target when in range. Slower moving than homing soul mass but has much better homing capabilities.",
+    "AcquiredFrom": "Exchange Soul of Manus with Snuggly. (AotA Only)",
+    "Type": "Ranged Magic Attack"
+  }
+]

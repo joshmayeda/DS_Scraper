@@ -1,0 +1,289 @@
+[
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4042.png",
+    "Name": "Tiny Being\u0027s Ring",
+    "Effects": "Maximum HP: \u002B5%",
+    "AcquiredFrom": "Starting gift Reward: Siegmeyer of Catarina in Anor Londo",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4004.png",
+    "Name": "Cloranthy Ring",
+    "Effects": "Stamina regeneration: \u002B20% Stacks with Mask of the Child. Stacks with Grass Crest Shield. Stacks with Green Blossom.",
+    "AcquiredFrom": "Location: The Great Hollow",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4000.png",
+    "Name": "Havel\u0027s Ring",
+    "Effects": "Maximum equip load: \u002B50%",
+    "AcquiredFrom": "Drop: Havel the Rock",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4020.png",
+    "Name": "Ring of Steel Protection",
+    "Effects": "Physical defense: \u002B50 points",
+    "AcquiredFrom": "Location: Sen\u0027s Fortress",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4007.png",
+    "Name": "Spell Stoneplate Ring",
+    "Effects": "Magic defense: \u002B50 points",
+    "AcquiredFrom": "Purchase: Crestfallen Merchant for 15,000 souls",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4005.png",
+    "Name": "Flame Stoneplate Ring",
+    "Effects": "Fire defense: \u002B50 points",
+    "AcquiredFrom": "Location: Sen\u0027s Fortress",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4006.png",
+    "Name": "Thunder Stoneplate Ring",
+    "Effects": "Lightning defense: \u002B50 points",
+    "AcquiredFrom": "Purchase: Crestfallen Merchant for 15,000 souls",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.comhttps://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/speckled_stoneplate_ring.png",
+    "Name": "Speckled Stoneplate Ring",
+    "Effects": "Magic defense: \u002B25 points Fire defense: \u002B25 points Lightning defense: \u002B25 points",
+    "AcquiredFrom": "Drop: Siegmeyer of Catarina",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4009.png",
+    "Name": "Bloodbite Ring",
+    "Effects": "Bleed resistance: \u002B400%",
+    "AcquiredFrom": "Purchase: Oswald of Carim for 10,000 souls",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4010.png",
+    "Name": "Poisonbite Ring",
+    "Effects": "Poison resistance: \u002B400%",
+    "AcquiredFrom": "Purchase: Oswald of Carim for 15,000 souls",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4013.png",
+    "Name": "Cursebite Ring",
+    "Effects": "Curse resistance: \u002B400%",
+    "AcquiredFrom": "Location: New Londo Ruins",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4001.png",
+    "Name": "Red Tearstone Ring",
+    "Effects": "Attack: \u002B50% when health is below 20%",
+    "AcquiredFrom": "Location: Valley of Drakes",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4036.png",
+    "Name": "Blue Tearstone Ring",
+    "Effects": "Defense: \u002B50% when health is below 20%",
+    "AcquiredFrom": "Location: Undead Burg",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4026.png",
+    "Name": "Ring of Sacrifice",
+    "Effects": "Lose nothing upon death Ring breaks when used",
+    "AcquiredFrom": "Location: Firelink Shrine Location: New Londo Ruins Trade: Snuggly for Humanity Purchase: Oswald of Carim for 5,000 souls",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4027.png",
+    "Name": "Rare Ring of Sacrifice",
+    "Effects": "Lose nothing upon deathDeath caused by curse will not take effect Ring breaks when used",
+    "AcquiredFrom": "Location: Sen\u0027s Fortress Location: New Londo Ruins Location: Lost Izalith Trade: Snuggly for Twin Humanities",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4015.png",
+    "Name": "Bellowing Dragoncrest Ring",
+    "Effects": "Magic damage: \u002B20-26% depending on spell Stacks with Crown of Dusk",
+    "AcquiredFrom": "Purchase: Griggs of Vinheim for 20,000 souls",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4039.png",
+    "Name": "Lingering Dragoncrest Ring",
+    "Effects": "Magic effect length: \u002B50% Note: Does not increase miracles\u0027 effect length.",
+    "AcquiredFrom": "Purchase: Griggs of Vinheim for 20,000 souls",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4023.png",
+    "Name": "Slumbering Dragoncrest Ring",
+    "Effects": "Wearer makes no sound",
+    "AcquiredFrom": "Location: Sen\u0027s Fortress Drop: Griggs of Vinheim",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4016.png",
+    "Name": "Dusk Crown Ring",
+    "Effects": "Amount of sorcery castings: \u002B50% Maximum HP: -50%",
+    "AcquiredFrom": "Drop: Hydra (Darkroot Basin)",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4014.png",
+    "Name": "White Seance Ring",
+    "Effects": "Attunement slots: \u002B1 slot",
+    "AcquiredFrom": "Location: The Duke\u0027s Archives",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4038.png",
+    "Name": "Darkmoon Seance Ring",
+    "Effects": "Attunement slots: \u002B1 slot Grants player entrance to Darkmoon Blades covenant at Anor Londo.",
+    "AcquiredFrom": "Location: The Catacombs",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4011.png",
+    "Name": "Ring of the Sun\u0027s Firstborn",
+    "Effects": "Miracle power: \u002B20% Stacks with Crown of Dusk/Dark Sun",
+    "AcquiredFrom": "Location: Anor Londo",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4040.png",
+    "Name": "Darkmoon Blade Covenant Ring",
+    "Effects": "Allows Gwyndolin to summon one player to invade another player\u0027s Dark Anor Londo.",
+    "AcquiredFrom": "Covenant reward: Given upon joining the Darkmoon Blades covenant",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4030.png",
+    "Name": "Ring of the Sun Princess",
+    "Effects": "Boosts miracle synergy",
+    "AcquiredFrom": "Location: Obtained upon joining the Princess Guard covenant after speaking with Gwynevere in Anor Londo.",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4031.png",
+    "Name": "Leo Ring",
+    "Effects": "Counter damage: \u002B40%",
+    "AcquiredFrom": "Drop: Ornstein",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4035.png",
+    "Name": "Wolf Ring",
+    "Effects": "Poise: \u002B40 points",
+    "AcquiredFrom": "Location: Darkroot Garden",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4019.png",
+    "Name": "Hawk Ring",
+    "Effects": "Bow range: \u002B50% Enhanced zooming: bows and binoculars",
+    "AcquiredFrom": "Location: Chest behind Giant Blacksmith in Anor Londo",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4017.png",
+    "Name": "Hornet Ring",
+    "Effects": "Critical attack (backstab, riposte): \u002B30%",
+    "AcquiredFrom": "Location: Darkroot Garden, on a corpse behind the gravestone in the boss area for Sif",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4032.png",
+    "Name": "East Wood Grain Ring",
+    "Effects": "Lessens the amount of durability loss. Note: Does not lessen durability loss when using a weapon\u0027s special ability (i.e. dragon weapons\u0027 two-handed strong attack).",
+    "AcquiredFrom": "Location: Purchased from Shiva of the East (Blighttown).",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4028.png",
+    "Name": "Dark Wood Grain Ring",
+    "Effects": "Changes rolling action to a faster and wider one (ninja flip). Only works when equip load is under 25% as of Patch 1.06",
+    "AcquiredFrom": "Drop: Shiva\u0027s bodyguard Note: Need to be in Forest Hunter covenant for bodyguard to appear.",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4025.png",
+    "Name": "Rusted Iron Ring",
+    "Effects": "Removes the movement speed penalty in water, poison swamp, tar, etc.",
+    "AcquiredFrom": "Location: Undead Asylum (second visit) Note: You need a special key to open a door before reaching the ring. See Undead Asylum for more information.",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4021.png",
+    "Name": "Covetous Gold Serpent Ring",
+    "Effects": "Item discovery: \u002B200 points",
+    "AcquiredFrom": "Location: Sen\u0027s Fortress",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4022.png",
+    "Name": "Covetous Silver Serpent Ring",
+    "Effects": "Souls absorbed for each kill: \u002B20% Stacks with Symbol of Avarice.",
+    "AcquiredFrom": "Location: Tomb of Giants",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4002.png",
+    "Name": "Covenant of Artorias",
+    "Effects": "Allows entering to The Abyss",
+    "AcquiredFrom": "Drop: Great Grey Wolf Sif",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4003.png",
+    "Name": "Orange Charred Ring",
+    "Effects": "Reduces lava damage Adds fire element to kick motion",
+    "AcquiredFrom": "Drop: Centipede Demon",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4037.png",
+    "Name": "Old Witch\u0027s Ring",
+    "Effects": "Allows talking to Quelaag\u0027s Sister Note: Without the ring choosing to talk to her only prompts a \u0022...?\u0022 response.",
+    "AcquiredFrom": "Starting gift Trade: Snuggly for a Sunlight Maggot",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4041.png",
+    "Name": "Cat Covenant Ring",
+    "Effects": "Allows Alvina to summon player to protect Darkroot Garden from other players Note: Requires to be a member of the Forest Hunter Covenant to be summoned.",
+    "AcquiredFrom": "Covenant reward: Given upon joining the Forest Hunter covenant",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4024.png",
+    "Name": "Ring of Fog",
+    "Effects": "Turns the player transparent making them un-targetable (but not un-hittable).",
+    "AcquiredFrom": "",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4029.png",
+    "Name": "Ring of Favor and Protection",
+    "Effects": "Maximum HP: \u002B20% Stamina: \u002B20% Maximum equip load: \u002B20%. Breaks when removed",
+    "AcquiredFrom": "Drop: Lautrec Trade: Snuggly for a Xanthous Crown",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/4018.png",
+    "Name": "Ring of the Evil Eye",
+    "Effects": "Absorbs 30 HP from every fallen enemy Note: Does not stack on multiple kills.",
+    "AcquiredFrom": "Location: Depths",
+    "Description": null
+  },
+  {
+    "ImageURL": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Calamity%20Ring.png",
+    "Name": "Calamity Ring",
+    "Effects": "The player receives twice the amount of damage they normally would",
+    "AcquiredFrom": "Drop: Black Dragon Kalameet",
+    "Description": null
+  }
+]

@@ -14,6 +14,7 @@ namespace DS_Scraper
         {
 
             var baseURL = "https://darksouls.wiki.fextralife.com/";
+            //Weapons
             var daggerUrl = baseURL + "Daggers";
             var straightSwordUrl = baseURL + "Straight+Swords";
             var greatSwordUrl = baseURL + "Greatswords";
@@ -35,6 +36,26 @@ namespace DS_Scraper
             var crossbowUrl = baseURL + "Crossbows";
             var catalystUrl = baseURL + "Catalysts";
             var talismanUrl = baseURL + "Talismans";
+
+            //Armors
+            var helmUrl = baseURL + "Helms";
+            var chestUrl = baseURL + "Chest+Armor";
+            var gauntletUrl = baseURL + "Gauntlets";
+            var legUrl = baseURL + "Leg+Armor";
+
+            //Shields
+            var smallShieldsUrl = baseURL + "Small+Shields";
+            var standardShieldsUrl = baseURL + "Standard+Shields";
+            var greatshieldsUrl = baseURL + "Greatshields";
+
+            //Rings
+            var ringUrl = baseURL + "Rings";
+
+            //Magic
+            var sorceriesUrl = baseURL + "Sorceries";
+            var pyromanciesUrl = baseURL + "Pyromancies";
+            var miraclesUrl = baseURL + "Miracles";
+
             var html = baseURL;
 
             String[] urls = {
@@ -83,89 +104,145 @@ namespace DS_Scraper
 
             // }
 
-            // html = await GetHtml(daggerUrl);
-            // Daggers daggerInstance = new Daggers();
-            // daggerInstance.ParseDaggers(html);
 
-            // html = await GetHtml(straightSwordUrl);
-            // GeneralWeapons straightSwordInstance = new GeneralWeapons();
-            // straightSwordInstance.ParseGeneralWeapons(html);
+            /*Weapons
 
-            // html = await GetHtml(greatSwordUrl);
-            // GeneralWeapons greatSwordInstance = new GeneralWeapons();
-            // greatSwordInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(daggerUrl);
+            Daggers daggerInstance = new Daggers();
+            daggerInstance.ParseDaggers(html);
 
-            // html = await GetHtml(ultraGreatSwordUrl);
-            // GeneralWeapons ultraGreatSwordInstance = new GeneralWeapons();
-            // ultraGreatSwordInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(straightSwordUrl);
+            GeneralWeapons straightSwordInstance = new GeneralWeapons();
+            straightSwordInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(curvedSwordUrl);
-            // GeneralWeapons curvedSwordInstance = new GeneralWeapons();
-            // curvedSwordInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(greatSwordUrl);
+            GeneralWeapons greatSwordInstance = new GeneralWeapons();
+            greatSwordInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(katanaUrl);
-            // GeneralWeapons katanaInstance = new GeneralWeapons();
-            // katanaInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(ultraGreatSwordUrl);
+            GeneralWeapons ultraGreatSwordInstance = new GeneralWeapons();
+            ultraGreatSwordInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(curvedGreatSwordUrl);
-            // GeneralWeapons curvedGreatSwordInstance = new GeneralWeapons();
-            // curvedGreatSwordInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(curvedSwordUrl);
+            GeneralWeapons curvedSwordInstance = new GeneralWeapons();
+            curvedSwordInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(piercingSwordUrl);
-            // GeneralWeapons piercingSwordInstance = new GeneralWeapons();
-            // piercingSwordInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(katanaUrl);
+            GeneralWeapons katanaInstance = new GeneralWeapons();
+            katanaInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(axeUrl);
-            // GeneralWeapons axeInstance = new GeneralWeapons();
-            // axeInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(curvedGreatSwordUrl);
+            GeneralWeapons curvedGreatSwordInstance = new GeneralWeapons();
+            curvedGreatSwordInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(greataxeUrl);
-            // GeneralWeapons greataxeInstance = new GeneralWeapons();
-            // greataxeInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(piercingSwordUrl);
+            GeneralWeapons piercingSwordInstance = new GeneralWeapons();
+            piercingSwordInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(hammerUrl);
-            // GeneralWeapons hammerInstance = new GeneralWeapons();
-            // hammerInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(axeUrl);
+            GeneralWeapons axeInstance = new GeneralWeapons();
+            axeInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(greatHammerUrl);
-            // GeneralWeapons greatHammerInstance = new GeneralWeapons();
-            // greatHammerInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(greataxeUrl);
+            GeneralWeapons greataxeInstance = new GeneralWeapons();
+            greataxeInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(fistAndClawsUrl);
-            // GeneralWeapons fistAndClawsInstance = new GeneralWeapons();
-            // fistAndClawsInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(hammerUrl);
+            GeneralWeapons hammerInstance = new GeneralWeapons();
+            hammerInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(spearUrl);
-            // GeneralWeapons spearInstance = new GeneralWeapons();
-            // spearInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(greatHammerUrl);
+            GeneralWeapons greatHammerInstance = new GeneralWeapons();
+            greatHammerInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(halberdUrl);
-            // GeneralWeapons halberdInstance = new GeneralWeapons();
-            // halberdInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(fistAndClawsUrl);
+            GeneralWeapons fistAndClawsInstance = new GeneralWeapons();
+            fistAndClawsInstance.ParseGeneralWeapons(html);
+
+            html = await GetHtml(spearUrl);
+            GeneralWeapons spearInstance = new GeneralWeapons();
+            spearInstance.ParseGeneralWeapons(html);
+
+            html = await GetHtml(halberdUrl);
+            GeneralWeapons halberdInstance = new GeneralWeapons();
+            halberdInstance.ParseGeneralWeapons(html);
 
             html = await GetHtml(whipUrl);
             GeneralWeapons whipInstance = new GeneralWeapons();
             whipInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(bowUrl);
-            // GeneralWeapons bowInstance = new GeneralWeapons();
-            // bowInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(bowUrl);
+            GeneralWeapons bowInstance = new GeneralWeapons();
+            bowInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(greatBowUrl);
-            // GeneralWeapons greatBowInstance = new GeneralWeapons();
-            // greatBowInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(greatBowUrl);
+            GeneralWeapons greatBowInstance = new GeneralWeapons();
+            greatBowInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(crossbowUrl);
-            // GeneralWeapons crossbowInstance = new GeneralWeapons();
-            // crossbowInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(crossbowUrl);
+            GeneralWeapons crossbowInstance = new GeneralWeapons();
+            crossbowInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(catalystUrl);
-            // MagicWeapons catalystInstance = new MagicWeapons();
-            // catalystInstance.ParseMagicWeapons(html);
+            html = await GetHtml(catalystUrl);
+            MagicWeapons catalystInstance = new MagicWeapons();
+            catalystInstance.ParseMagicWeapons(html);
 
-            // html = await GetHtml(talismanUrl);
-            // MagicWeapons talismanInstance = new MagicWeapons();
-            // talismanInstance.ParseMagicWeapons(html);
+            html = await GetHtml(talismanUrl);
+            MagicWeapons talismanInstance = new MagicWeapons();
+            talismanInstance.ParseMagicWeapons(html);*/
+
+            /*Armors*/
+
+            // html = await GetHtml(helmUrl);
+            // GeneralArmor helmInstance = new GeneralArmor();
+            // helmInstance.ParseArmor(html);
+
+            html = await GetHtml(chestUrl);
+            GeneralArmor chestInstance = new GeneralArmor();
+            chestInstance.ParseArmor(html);
+
+            // html = await GetHtml(gauntletUrl);
+            // GeneralArmor gauntletInstance = new GeneralArmor();
+            // gauntletInstance.ParseArmor(html);
+
+            // html = await GetHtml(legUrl);
+            // GeneralArmor legInstance = new GeneralArmor();
+            // legInstance.ParseArmor(html);
+
+
+            /*Shields
+            html = await GetHtml(smallShieldsUrl);
+            GeneralShield smallShieldInstance = new GeneralShield();
+            smallShieldInstance.ParseShield(html);
+
+            html = await GetHtml(standardShieldsUrl);
+            GeneralShield standardShieldInstance = new GeneralShield();
+            standardShieldInstance.ParseShield(html);
+
+            html = await GetHtml(greatshieldsUrl);
+            GeneralShield greatshieldInstance = new GeneralShield();
+            greatshieldInstance.ParseShield(html);
+            */
+
+            /*Rings
+            html = await GetHtml(ringUrl);
+            GeneralRing ringInstance = new GeneralRing();
+            ringInstance.ParseRing(html);
+            */
+
+
+            /*Magic*/
+            // html = await GetHtml(sorceriesUrl);
+            // GeneralMagic sorceryInstance = new GeneralMagic();
+            // sorceryInstance.ParseMagic(html);
+
+            // html = await GetHtml(pyromanciesUrl);
+            // GeneralMagic pyromancyInstance = new GeneralMagic();
+            // pyromancyInstance.ParseMagic(html);
+
+            // html = await GetHtml(miraclesUrl);
+            // GeneralMagic miracleInstance = new GeneralMagic();
+            // miracleInstance.ParseMagic(html);
 
         }
 
