@@ -191,23 +191,24 @@ namespace DS_Scraper
             MagicWeapons talismanInstance = new MagicWeapons();
             talismanInstance.ParseMagicWeapons(html);*/
 
-            /*Armors*/
+            /*Armors
 
-            // html = await GetHtml(helmUrl);
-            // GeneralArmor helmInstance = new GeneralArmor();
-            // helmInstance.ParseArmor(html);
+            html = await GetHtml(helmUrl);
+            GeneralArmor helmInstance = new GeneralArmor();
+            helmInstance.ParseArmor(html);
 
             html = await GetHtml(chestUrl);
             GeneralArmor chestInstance = new GeneralArmor();
             chestInstance.ParseArmor(html);
 
-            // html = await GetHtml(gauntletUrl);
-            // GeneralArmor gauntletInstance = new GeneralArmor();
-            // gauntletInstance.ParseArmor(html);
+            html = await GetHtml(gauntletUrl);
+            GeneralArmor gauntletInstance = new GeneralArmor();
+            gauntletInstance.ParseArmor(html);
 
-            // html = await GetHtml(legUrl);
-            // GeneralArmor legInstance = new GeneralArmor();
-            // legInstance.ParseArmor(html);
+            html = await GetHtml(legUrl);
+            GeneralArmor legInstance = new GeneralArmor();
+            legInstance.ParseArmor(html);
+            */
 
 
             /*Shields
