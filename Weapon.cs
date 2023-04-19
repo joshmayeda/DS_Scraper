@@ -1,8 +1,8 @@
 using DS_Scraper;
 public class Weapon
 {
-    public string ImageURL { get; set; }
-    public string Name { get; set; }
+    public string? ImageURL { get; set; }
+    public string? Name { get; set; }
     public int AttackPower { get; set; }
     public int PhysicalDamageReductionPercent { get; set; }
     public int MagicAttackPower { get; set; }
@@ -18,21 +18,21 @@ public class Weapon
     public int DivineDamage { get; set; }
     public int OccultDamage { get; set; }
     public int RequiredStrength { get; set; }
-    public String BaseStrengthScaling { get; set; }
-    public String MaxStrengthScaling { get; set; }
+    public String? BaseStrengthScaling { get; set; }
+    public String? MaxStrengthScaling { get; set; }
     public int RequiredDexterity { get; set; }
-    public String BaseDexterityScaling { get; set; }
-    public String MaxDexterityScaling { get; set; }
+    public String? BaseDexterityScaling { get; set; }
+    public String? MaxDexterityScaling { get; set; }
     public int RequiredIntelligence { get; set; }
-    public String BaseIntelligenceScaling { get; set; }
-    public String MaxIntelligenceScaling { get; set; }
+    public String? BaseIntelligenceScaling { get; set; }
+    public String? MaxIntelligenceScaling { get; set; }
     public int RequiredFaith { get; set; }
-    public String BaseFaithScaling { get; set; }
-    public String MaxFaithScaling { get; set; }
+    public String? BaseFaithScaling { get; set; }
+    public String? MaxFaithScaling { get; set; }
     public int Durability { get; set; }
     public double Weight { get; set; }
-    public string AttackTypes { get; set; }
-    public string AcquiredFrom { get; set;}
-    public string Description { get; set; }
+    public String? AttackTypes { get; set; }
+    public String? AcquiredFrom { get; set;}
+    public String? Description { get; set; }
     public int MaxUpgradeLevel { get; set; }
 }

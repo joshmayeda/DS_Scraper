@@ -143,7 +143,7 @@
             //Console.WriteLine(JsonSerializer.Serialize(weapon, options));
             data.Add(weapon);
             string json = JsonSerializer.Serialize(data, options);
-            File.WriteAllText("./Weapons/Catalysts.json", json);
+            File.WriteAllText("./Weapons/Talismans.json", json);
         }
         return data;
     }

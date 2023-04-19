@@ -12,32 +12,78 @@ namespace DS_Scraper
 
         static async Task Main(string[] args)
         {
-            var url = "https://darksouls.wiki.fextralife.com/";
-            var daggerURL = url + "Daggers";
-            var straightSwordUrl = url + "Straight+Swords";
-            var greatSwordUrl = url + "Greatswords";
-            var ultraGreatSwordUrl = url + "Ultra+Greatswords";
-            var curvedSwordUrl = url + "Curved+Swords";
-            var katanaUrl = url + "Katanas";
-            var curvedGreatSwordUrl = url + "Curved+Greatswords";
-            var piercingSwordUrl = url + "Piercing+Swords";
-            var axeUrl = url + "Axes";
-            var greataxeUrl = url + "Great+Axes";
-            var hammerUrl = url + "Hammers";
-            var greatHammerUrl = url + "Great+Hammers";
-            var fistAndClawsUrl = url + "Fist+Weapons";
-            var spearUrl = url + "Spears";
-            var halberdUrl = url + "Halberds";
-            var whipUrl = url + "Whips";
-            var bowUrl = url + "Bows";
-            var greatBowUrl = url + "Greatbows";
-            var crossbowUrl = url + "Crossbows";
-            var catalystUrl = url + "Catalysts";
-            var flameUrl = url + "Flames";
-            var talismanUrl = url + "Talismans";
-            var html = url;
 
-            // html = await GetHtml(daggerURL);
+            var baseURL = "https://darksouls.wiki.fextralife.com/";
+            var daggerUrl = baseURL + "Daggers";
+            var straightSwordUrl = baseURL + "Straight+Swords";
+            var greatSwordUrl = baseURL + "Greatswords";
+            var ultraGreatSwordUrl = baseURL + "Ultra+Greatswords";
+            var curvedSwordUrl = baseURL + "Curved+Swords";
+            var katanaUrl = baseURL + "Katanas";
+            var curvedGreatSwordUrl = baseURL + "Curved+Greatswords";
+            var piercingSwordUrl = baseURL + "Piercing+Swords";
+            var axeUrl = baseURL + "Axes";
+            var greataxeUrl = baseURL + "Great+Axes";
+            var hammerUrl = baseURL + "Hammers";
+            var greatHammerUrl = baseURL + "Great+Hammers";
+            var fistAndClawsUrl = baseURL + "Fist+Weapons";
+            var spearUrl = baseURL + "Spears";
+            var halberdUrl = baseURL + "Halberds";
+            var whipUrl = baseURL + "Whips";
+            var bowUrl = baseURL + "Bows";
+            var greatBowUrl = baseURL + "Greatbows";
+            var crossbowUrl = baseURL + "Crossbows";
+            var catalystUrl = baseURL + "Catalysts";
+            var talismanUrl = baseURL + "Talismans";
+            var html = baseURL;
+
+            String[] urls = {
+                daggerUrl,
+                straightSwordUrl,
+                greatSwordUrl,
+                ultraGreatSwordUrl,
+                curvedSwordUrl,
+                katanaUrl,
+                curvedGreatSwordUrl,
+                piercingSwordUrl,
+                axeUrl,
+                greataxeUrl,
+                hammerUrl,
+                greatHammerUrl,
+                fistAndClawsUrl,
+                spearUrl,
+                halberdUrl,
+                whipUrl,
+                bowUrl,
+                greatBowUrl,
+                crossbowUrl,
+                catalystUrl,
+                talismanUrl
+            };
+
+            // for (var i = 0; i < urls.Length; ++i)
+            // {
+            //     if(i == 0) {
+            //         var html = await GetHtml(urls[i]);
+            //         Daggers daggerInstance = new Daggers();
+            //         daggerInstance.ParseDaggers(html);
+            //     }else if(i == 19){
+            //         var html = await GetHtml(urls[i]);
+            //         MagicWeapons catalystInstance = new MagicWeapons();
+            //         catalystInstance.ParseMagicWeapons(html);
+            //     }else if(i == 20){
+            //         var html = await GetHtml(urls[i]);
+            //         MagicWeapons talismanInstance = new MagicWeapons();
+            //         talismanInstance.ParseMagicWeapons(html);
+            //     }else{
+            //         var html = await GetHtml(urls[i]);
+            //         GeneralWeapons generalWeaponsInstance = new GeneralWeapons();
+            //         generalWeaponsInstance.ParseGeneralWeapons(html);
+            //     }
+
+            // }
+
+            // html = await GetHtml(daggerUrl);
             // Daggers daggerInstance = new Daggers();
             // daggerInstance.ParseDaggers(html);
 
@@ -97,9 +143,9 @@ namespace DS_Scraper
             // GeneralWeapons halberdInstance = new GeneralWeapons();
             // halberdInstance.ParseGeneralWeapons(html);
 
-            // html = await GetHtml(whipUrl);
-            // GeneralWeapons whipInstance = new GeneralWeapons();
-            // whipInstance.ParseGeneralWeapons(html);
+            html = await GetHtml(whipUrl);
+            GeneralWeapons whipInstance = new GeneralWeapons();
+            whipInstance.ParseGeneralWeapons(html);
 
             // html = await GetHtml(bowUrl);
             // GeneralWeapons bowInstance = new GeneralWeapons();
@@ -113,13 +159,9 @@ namespace DS_Scraper
             // GeneralWeapons crossbowInstance = new GeneralWeapons();
             // crossbowInstance.ParseGeneralWeapons(html);
 
-            html = await GetHtml(catalystUrl);
-            MagicWeapons catalystInstance = new MagicWeapons();
-            catalystInstance.ParseMagicWeapons(html);
-
-            // html = await GetHtml(flameUrl);
-            // MagicWeapons flameInstance = new MagicWeapons();
-            // flameInstance.ParseMagicWeapons(html);
+            // html = await GetHtml(catalystUrl);
+            // MagicWeapons catalystInstance = new MagicWeapons();
+            // catalystInstance.ParseMagicWeapons(html);
 
             // html = await GetHtml(talismanUrl);
             // MagicWeapons talismanInstance = new MagicWeapons();
