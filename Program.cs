@@ -257,21 +257,53 @@ namespace DS_Scraper
             // GeneralStat staminaInstance = new GeneralStat();
             // staminaInstance.ParseStat(html);
 
-            var options = new JsonSerializerOptions
-            {
-                WriteIndented = true,
-            };
-            var data = new List<ItemDiscovery>();
-            for(int i = 11; i < 100; ++i){
-                var itemDiscovery = new ItemDiscovery();
-                itemDiscovery.Humanity = i;
-                itemDiscovery.ItemDiscoveryRate = 210;
-                data.Add(itemDiscovery);
-                string json = JsonSerializer.Serialize(data, options);
-                File.WriteAllText("./Stats/Tables/ItemDiscovery.json", json);
-            }
+        //     var options = new JsonSerializerOptions
+        //     {
+        //         WriteIndented = true,
+        //     };
+        //     var data = new List<AttunementSlots>();
+        //     for(int i = 0; i < 100; ++i){
+        //         var attunementSlots = new AttunementSlots();
+        //         if(i < 10){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 0;
+        //         }else if(i == 10 || i == 11){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 1;
+        //         }else if(i == 12 || i == 13){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 2;
+        //         }else if(i == 14 || i == 15){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 3;
+        //         }else if(i == 16 || i == 17 || i == 18){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 4;
+        //         }else if(i == 19 || i == 20 || i == 21 || i == 22){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 5;
+        //         }else if(i == 23 || i == 24 || i == 25 || i == 26 || i == 27){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 6;
+        //         }else if(i == 28 || i == 29 || i == 30 || i == 31 || i == 32 || i == 33){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 7;
+        //         }else if(i == 34 || i == 35 || i == 36 || i == 37 || i == 38 || i == 39 || i == 40){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 8;
+        //         }else if(i == 41 || i == 42 || i == 43 || i == 44 || i == 45 || i == 46 || i == 47 || i == 48 || i == 49){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 9;
+        //         }else if(i > 49){
+        //             attunementSlots.Attunement = i;
+        //             attunementSlots.Slots = 10;
+        //         }
+        //         data.Add(attunementSlots);
+        //         string json = JsonSerializer.Serialize(data, options);
+        //         File.WriteAllText("./Stats/Tables/AttunementSlots.json", json);
+        //     }
 
-        }
+        // }
 
         private static Task<string> GetHtml(string url)
         {
