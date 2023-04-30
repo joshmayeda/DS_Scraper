@@ -1,0 +1,497 @@
+[
+  {
+    "Vitality": 1,
+    "HP": 400,
+    "IndividualGain": 0
+  },
+  {
+    "Vitality": 2,
+    "HP": 415,
+    "IndividualGain": 15
+  },
+  {
+    "Vitality": 3,
+    "HP": 433,
+    "IndividualGain": 18
+  },
+  {
+    "Vitality": 4,
+    "HP": 451,
+    "IndividualGain": 18
+  },
+  {
+    "Vitality": 5,
+    "HP": 471,
+    "IndividualGain": 20
+  },
+  {
+    "Vitality": 6,
+    "HP": 490,
+    "IndividualGain": 19
+  },
+  {
+    "Vitality": 7,
+    "HP": 511,
+    "IndividualGain": 21
+  },
+  {
+    "Vitality": 8,
+    "HP": 530,
+    "IndividualGain": 19
+  },
+  {
+    "Vitality": 9,
+    "HP": 552,
+    "IndividualGain": 22
+  },
+  {
+    "Vitality": 10,
+    "HP": 572,
+    "IndividualGain": 20
+  },
+  {
+    "Vitality": 11,
+    "HP": 594,
+    "IndividualGain": 22
+  },
+  {
+    "Vitality": 12,
+    "HP": 616,
+    "IndividualGain": 22
+  },
+  {
+    "Vitality": 13,
+    "HP": 638,
+    "IndividualGain": 22
+  },
+  {
+    "Vitality": 14,
+    "HP": 658,
+    "IndividualGain": 20
+  },
+  {
+    "Vitality": 15,
+    "HP": 682,
+    "IndividualGain": 24
+  },
+  {
+    "Vitality": 16,
+    "HP": 698,
+    "IndividualGain": 16
+  },
+  {
+    "Vitality": 17,
+    "HP": 718,
+    "IndividualGain": 20
+  },
+  {
+    "Vitality": 18,
+    "HP": 742,
+    "IndividualGain": 24
+  },
+  {
+    "Vitality": 19,
+    "HP": 766,
+    "IndividualGain": 24
+  },
+  {
+    "Vitality": 20,
+    "HP": 792,
+    "IndividualGain": 26
+  },
+  {
+    "Vitality": 21,
+    "HP": 821,
+    "IndividualGain": 29
+  },
+  {
+    "Vitality": 22,
+    "HP": 849,
+    "IndividualGain": 28
+  },
+  {
+    "Vitality": 23,
+    "HP": 878,
+    "IndividualGain": 29
+  },
+  {
+    "Vitality": 24,
+    "HP": 908,
+    "IndividualGain": 30
+  },
+  {
+    "Vitality": 25,
+    "HP": 938,
+    "IndividualGain": 30
+  },
+  {
+    "Vitality": 26,
+    "HP": 970,
+    "IndividualGain": 32
+  },
+  {
+    "Vitality": 27,
+    "HP": 1001,
+    "IndividualGain": 31
+  },
+  {
+    "Vitality": 28,
+    "HP": 1034,
+    "IndividualGain": 33
+  },
+  {
+    "Vitality": 29,
+    "HP": 1066,
+    "IndividualGain": 32
+  },
+  {
+    "Vitality": 30,
+    "HP": 1100,
+    "IndividualGain": 34
+  },
+  {
+    "Vitality": 31,
+    "HP": 1123,
+    "IndividualGain": 23
+  },
+  {
+    "Vitality": 32,
+    "HP": 1147,
+    "IndividualGain": 24
+  },
+  {
+    "Vitality": 33,
+    "HP": 1170,
+    "IndividualGain": 23
+  },
+  {
+    "Vitality": 34,
+    "HP": 1193,
+    "IndividualGain": 23
+  },
+  {
+    "Vitality": 35,
+    "HP": 1216,
+    "IndividualGain": 23
+  },
+  {
+    "Vitality": 36,
+    "HP": 1239,
+    "IndividualGain": 23
+  },
+  {
+    "Vitality": 37,
+    "HP": 1261,
+    "IndividualGain": 22
+  },
+  {
+    "Vitality": 38,
+    "HP": 1283,
+    "IndividualGain": 22
+  },
+  {
+    "Vitality": 39,
+    "HP": 1304,
+    "IndividualGain": 21
+  },
+  {
+    "Vitality": 40,
+    "HP": 1325,
+    "IndividualGain": 21
+  },
+  {
+    "Vitality": 41,
+    "HP": 1346,
+    "IndividualGain": 21
+  },
+  {
+    "Vitality": 42,
+    "HP": 1366,
+    "IndividualGain": 20
+  },
+  {
+    "Vitality": 43,
+    "HP": 1386,
+    "IndividualGain": 20
+  },
+  {
+    "Vitality": 44,
+    "HP": 1405,
+    "IndividualGain": 19
+  },
+  {
+    "Vitality": 45,
+    "HP": 1424,
+    "IndividualGain": 19
+  },
+  {
+    "Vitality": 46,
+    "HP": 1442,
+    "IndividualGain": 18
+  },
+  {
+    "Vitality": 47,
+    "HP": 1458,
+    "IndividualGain": 16
+  },
+  {
+    "Vitality": 48,
+    "HP": 1474,
+    "IndividualGain": 16
+  },
+  {
+    "Vitality": 49,
+    "HP": 1489,
+    "IndividualGain": 15
+  },
+  {
+    "Vitality": 50,
+    "HP": 1500,
+    "IndividualGain": 11
+  },
+  {
+    "Vitality": 51,
+    "HP": 1508,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 52,
+    "HP": 1517,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 53,
+    "HP": 1526,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 54,
+    "HP": 1535,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 55,
+    "HP": 1544,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 56,
+    "HP": 1553,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 57,
+    "HP": 1562,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 58,
+    "HP": 1571,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 59,
+    "HP": 1580,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 60,
+    "HP": 1588,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 61,
+    "HP": 1597,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 62,
+    "HP": 1606,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 63,
+    "HP": 1615,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 64,
+    "HP": 1623,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 65,
+    "HP": 1632,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 66,
+    "HP": 1641,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 67,
+    "HP": 1649,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 68,
+    "HP": 1658,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 69,
+    "HP": 1666,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 70,
+    "HP": 1675,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 71,
+    "HP": 1683,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 72,
+    "HP": 1692,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 73,
+    "HP": 1700,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 74,
+    "HP": 1709,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 75,
+    "HP": 1717,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 76,
+    "HP": 1725,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 77,
+    "HP": 1734,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 78,
+    "HP": 1742,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 79,
+    "HP": 1750,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 80,
+    "HP": 1758,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 81,
+    "HP": 1767,
+    "IndividualGain": 9
+  },
+  {
+    "Vitality": 82,
+    "HP": 1775,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 83,
+    "HP": 1783,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 84,
+    "HP": 1791,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 85,
+    "HP": 1799,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 86,
+    "HP": 1807,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 87,
+    "HP": 1814,
+    "IndividualGain": 7
+  },
+  {
+    "Vitality": 88,
+    "HP": 1822,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 89,
+    "HP": 1830,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 90,
+    "HP": 1837,
+    "IndividualGain": 7
+  },
+  {
+    "Vitality": 91,
+    "HP": 1845,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 92,
+    "HP": 1852,
+    "IndividualGain": 7
+  },
+  {
+    "Vitality": 93,
+    "HP": 1860,
+    "IndividualGain": 8
+  },
+  {
+    "Vitality": 94,
+    "HP": 1867,
+    "IndividualGain": 7
+  },
+  {
+    "Vitality": 95,
+    "HP": 1874,
+    "IndividualGain": 7
+  },
+  {
+    "Vitality": 96,
+    "HP": 1881,
+    "IndividualGain": 7
+  },
+  {
+    "Vitality": 97,
+    "HP": 1888,
+    "IndividualGain": 7
+  },
+  {
+    "Vitality": 98,
+    "HP": 1894,
+    "IndividualGain": 6
+  },
+  {
+    "Vitality": 99,
+    "HP": 1900,
+    "IndividualGain": 6
+  }
+]

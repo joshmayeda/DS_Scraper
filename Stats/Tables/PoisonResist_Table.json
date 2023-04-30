@@ -1,0 +1,54 @@
+[
+    {
+      "Resistance": 8,
+      "Poison Resistance": 26
+    },
+    {
+      "Resistance": 9,
+      "Poison Resistance": 28
+    },
+    {
+      "Resistance": 10,
+      "Poison Resistance": 30
+    },
+    {
+      "Resistance": 15,
+      "Poison Resistance": 60
+    },
+    {
+      "Resistance": 20,
+      "Poison Resistance": 73
+    },
+    {
+      "Resistance": 30,
+      "Poison Resistance": 100
+    },
+    {
+      "Resistance": 40,
+      "Poison Resistance": 107
+    },
+    {
+      "Resistance": 50,
+      "Poison Resistance": 114
+    },
+    {
+      "Resistance": 60,
+      "Poison Resistance": 122
+    },
+    {
+      "Resistance": 70,
+      "Poison Resistance": 129
+    },
+    {
+      "Resistance": 80,
+      "Poison Resistance": 136
+    },
+    {
+      "Resistance": 90,
+      "Poison Resistance": 143
+    },
+    {
+      "Resistance": 99,
+      "Poison Resistance": 150
+    }
+  ]

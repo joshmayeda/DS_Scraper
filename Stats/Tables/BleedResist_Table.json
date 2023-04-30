@@ -1,0 +1,398 @@
+[
+    {
+      "Endurance": 1,
+      "Bleed Resistance": 10
+    },
+    {
+      "Endurance": 2,
+      "Bleed Resistance": 13
+    },
+    {
+      "Endurance": 3,
+      "Bleed Resistance": 17
+    },
+    {
+      "Endurance": 4,
+      "Bleed Resistance": 20
+    },
+    {
+      "Endurance": 5,
+      "Bleed Resistance": 23
+    },
+    {
+      "Endurance": 6,
+      "Bleed Resistance": 27
+    },
+    {
+      "Endurance": 7,
+      "Bleed Resistance": 30
+    },
+    {
+      "Endurance": 8,
+      "Bleed Resistance": 33
+    },
+    {
+      "Endurance": 9,
+      "Bleed Resistance": 37
+    },
+    {
+      "Endurance": 10,
+      "Bleed Resistance": 40
+    },
+    {
+      "Endurance": 11,
+      "Bleed Resistance": 44
+    },
+    {
+      "Endurance": 12,
+      "Bleed Resistance": 48
+    },
+    {
+      "Endurance": 13,
+      "Bleed Resistance": 52
+    },
+    {
+      "Endurance": 14,
+      "Bleed Resistance": 56
+    },
+    {
+      "Endurance": 15,
+      "Bleed Resistance": 60
+    },
+    {
+      "Endurance": 16,
+      "Bleed Resistance": 63
+    },
+    {
+      "Endurance": 17,
+      "Bleed Resistance": 65
+    },
+    {
+      "Endurance": 18,
+      "Bleed Resistance": 68
+    },
+    {
+      "Endurance": 19,
+      "Bleed Resistance": 71
+    },
+    {
+      "Endurance": 20,
+      "Bleed Resistance": 73
+    },
+    {
+      "Endurance": 21,
+      "Bleed Resistance": 76
+    },
+    {
+      "Endurance": 22,
+      "Bleed Resistance": 79
+    },
+    {
+      "Endurance": 23,
+      "Bleed Resistance": 81
+    },
+    {
+      "Endurance": 24,
+      "Bleed Resistance": 84
+    },
+    {
+      "Endurance": 25,
+      "Bleed Resistance": 87
+    },
+    {
+      "Endurance": 26,
+      "Bleed Resistance": 89
+    },
+    {
+      "Endurance": 27,
+      "Bleed Resistance": 92
+    },
+    {
+      "Endurance": 28,
+      "Bleed Resistance": 95
+    },
+    {
+      "Endurance": 29,
+      "Bleed Resistance": 97
+    },
+    {
+      "Endurance": 30,
+      "Bleed Resistance": 100
+    },
+    {
+      "Endurance": 31,
+      "Bleed Resistance": 101
+    },
+    {
+      "Endurance": 32,
+      "Bleed Resistance": 101
+    },
+    {
+      "Endurance": 33,
+      "Bleed Resistance": 102
+    },
+    {
+      "Endurance": 34,
+      "Bleed Resistance": 103
+    },
+    {
+      "Endurance": 35,
+      "Bleed Resistance": 104
+    },
+    {
+      "Endurance": 36,
+      "Bleed Resistance": 104
+    },
+    {
+      "Endurance": 37,
+      "Bleed Resistance": 106
+    },
+    {
+      "Endurance": 38,
+      "Bleed Resistance": 106
+    },
+    {
+      "Endurance": 39,
+      "Bleed Resistance": 107
+    },
+    {
+      "Endurance": 40,
+      "Bleed Resistance": 107
+    },
+    {
+      "Endurance": 41,
+      "Bleed Resistance": 108
+    },
+    {
+      "Endurance": 42,
+      "Bleed Resistance": 109
+    },
+    {
+      "Endurance": 43,
+      "Bleed Resistance": 109
+    },
+    {
+      "Endurance": 44,
+      "Bleed Resistance": 110
+    },
+    {
+      "Endurance": 45,
+      "Bleed Resistance": 111
+    },
+    {
+      "Endurance": 46,
+      "Bleed Resistance": 112
+    },
+    {
+      "Endurance": 47,
+      "Bleed Resistance": 112
+    },
+    {
+      "Endurance": 48,
+      "Bleed Resistance": 113
+    },
+    {
+      "Endurance": 49,
+      "Bleed Resistance": 114
+    },
+    {
+      "Endurance": 50,
+      "Bleed Resistance": 114
+    },
+    {
+      "Endurance": 51,
+      "Bleed Resistance": 115
+    },
+    {
+      "Endurance": 52,
+      "Bleed Resistance": 116
+    },
+    {
+      "Endurance": 53,
+      "Bleed Resistance": 117
+    },
+    {
+      "Endurance": 54,
+      "Bleed Resistance": 117
+    },
+    {
+      "Endurance": 55,
+      "Bleed Resistance": 118
+    },
+    {
+      "Endurance": 56,
+      "Bleed Resistance": 119
+    },
+    {
+      "Endurance": 57,
+      "Bleed Resistance": 120
+    },
+    {
+      "Endurance": 58,
+      "Bleed Resistance": 120
+    },
+    {
+      "Endurance": 59,
+      "Bleed Resistance": 121
+    },
+    {
+      "Endurance": 60,
+      "Bleed Resistance": 122
+    },
+    {
+      "Endurance": 61,
+      "Bleed Resistance": 122
+    },
+    {
+      "Endurance": 62,
+      "Bleed Resistance": 123
+    },
+    {
+      "Endurance": 63,
+      "Bleed Resistance": 124
+    },
+    {
+      "Endurance": 64,
+      "Bleed Resistance": 125
+    },
+    {
+      "Endurance": 65,
+      "Bleed Resistance": 126
+    },
+    {
+      "Endurance": 66,
+      "Bleed Resistance": 127
+    },
+    {
+      "Endurance": 67,
+      "Bleed Resistance": 127
+    },
+    {
+      "Endurance": 68,
+      "Bleed Resistance": 128
+    },
+    {
+      "Endurance": 69,
+      "Bleed Resistance": 128
+    },
+    {
+      "Endurance": 70,
+      "Bleed Resistance": 129
+    },
+    {
+      "Endurance": 71,
+      "Bleed Resistance": 130
+    },
+    {
+      "Endurance": 72,
+      "Bleed Resistance": 130
+    },
+    {
+      "Endurance": 73,
+      "Bleed Resistance": 131
+    },
+    {
+      "Endurance": 74,
+      "Bleed Resistance": 132
+    },
+    {
+      "Endurance": 75,
+      "Bleed Resistance": 133
+    },
+    {
+      "Endurance": 76,
+      "Bleed Resistance": 133
+    },
+    {
+      "Endurance": 77,
+      "Bleed Resistance": 134
+    },
+    {
+      "Endurance": 78,
+      "Bleed Resistance": 135
+    },
+    {
+      "Endurance": 79,
+      "Bleed Resistance": 136
+    },
+    {
+      "Endurance": 80,
+      "Bleed Resistance": 136
+    },
+    {
+      "Endurance": 81,
+      "Bleed Resistance": 137
+    },
+    {
+      "Endurance": 82,
+      "Bleed Resistance": 138
+    },
+    {
+      "Endurance": 83,
+      "Bleed Resistance": 138
+    },
+    {
+      "Endurance": 84,
+      "Bleed Resistance": 139
+    },
+    {
+      "Endurance": 85,
+      "Bleed Resistance": 140
+    },
+    {
+      "Endurance": 86,
+      "Bleed Resistance": 141
+    },
+    {
+      "Endurance": 87,
+      "Bleed Resistance": 141
+    },
+    {
+      "Endurance": 88,
+      "Bleed Resistance": 142
+    },
+    {
+      "Endurance": 89,
+      "Bleed Resistance": 143
+    },
+    {
+      "Endurance": 90,
+      "Bleed Resistance": 143
+    },
+    {
+      "Endurance": 91,
+      "Bleed Resistance": 144
+    },
+    {
+      "Endurance": 92,
+      "Bleed Resistance": 145
+    },
+    {
+      "Endurance": 93,
+      "Bleed Resistance": 146
+    },
+    {
+      "Endurance": 94,
+      "Bleed Resistance": 146
+    },
+    {
+      "Endurance": 95,
+      "Bleed Resistance": 147
+    },
+    {
+      "Endurance": 96,
+      "Bleed Resistance": 148
+    },
+    {
+      "Endurance": 97,
+      "Bleed Resistance": 149
+    },
+    {
+      "Endurance": 98,
+      "Bleed Resistance": 149
+    },
+    {
+      "Endurance": 99,
+      "Bleed Resistance": 150
+    }
+  ]

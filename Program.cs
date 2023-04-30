@@ -56,6 +56,10 @@ namespace DS_Scraper
             var pyromanciesUrl = baseURL + "Pyromancies";
             var miraclesUrl = baseURL + "Miracles";
 
+            //Stats
+            var hpUrl = baseURL + "Health";
+            var staminaUrl = baseURL + "Stamina";
+
             var html = baseURL;
 
             String[] urls = {
@@ -244,6 +248,28 @@ namespace DS_Scraper
             // html = await GetHtml(miraclesUrl);
             // GeneralMagic miracleInstance = new GeneralMagic();
             // miracleInstance.ParseMagic(html);
+
+            // html = await GetHtml(hpUrl);
+            // GeneralStat hpInstance = new GeneralStat();
+            // hpInstance.ParseStat(html);
+
+            // html = await GetHtml(staminaUrl);
+            // GeneralStat staminaInstance = new GeneralStat();
+            // staminaInstance.ParseStat(html);
+
+            var options = new JsonSerializerOptions
+            {
+                WriteIndented = true,
+            };
+            var data = new List<ItemDiscovery>();
+            for(int i = 11; i < 100; ++i){
+                var itemDiscovery = new ItemDiscovery();
+                itemDiscovery.Humanity = i;
+                itemDiscovery.ItemDiscoveryRate = 210;
+                data.Add(itemDiscovery);
+                string json = JsonSerializer.Serialize(data, options);
+                File.WriteAllText("./Stats/Tables/ItemDiscovery.json", json);
+            }
 
         }
 
